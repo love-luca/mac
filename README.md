@@ -2,7 +2,7 @@
 
 ![Build](https://github.com/johnboiles/obs-mac-virtualcam/workflows/Build%20and%20(maybe)%20Release/badge.svg)
 
-**ATTENTION: STARTING WITH OBS Studio 26.1, THIS PLUGIN IS NOW A PART OF THE OFFICIAL OBS PACKAGE 🎉. Development will now happen on the [OBS Studio GitHub](https://github.com/obsproject/obs-studio). Running this plugin along-side the built-in distribution does not work. If you can, update to OBS 26.1!**
+**ATTENTION: STARTING WITH OBS Studio 26.1, THIS PLUGIN IS NOW A PART OF THE OFFICIAL OBS PACKAGE 🎉. Development will now happen on the [OBS Studio GitHub](https://github.com/obsproject/obs-studio). Running this plugin along-side the built-in distribution does not work. If you can, update to OBS 26.1!** v2
 
 **ATTENTION: Before updating to OBS Studio 26.1, make sure to remove this plugin using the [uninstall instructions](https://github.com/johnboiles/obs-mac-virtualcam#uninstalling).** While it worked for most, some users have reported problems when updating to OBS Studio 26.1 with the plugin installed. You will likely also need to restart any host software (e.g. Chrome, Zoom, etc) after installing OBS Studio 26.1 and starting the virtual camera before the new plugin will work.
 
