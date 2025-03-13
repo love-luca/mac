@@ -1,4 +1,4 @@
-# OBS (macOS) Virtual Camera (ARCHIVED) 🎥
+# OBS (macOS) Virtual Camera () 🎥
 
 ![Build](https://github.com/johnboiles/obs-mac-virtualcam/workflows/Build%20and%20(maybe)%20Release/badge.svg)
 
